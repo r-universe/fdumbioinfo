@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/fdumbioinfo/fdumbioinfo.r-universe.dev
 	branch = HEAD
+[submodule "uem915light"]
+	path = uem915light
+	url = https://github.com/fdumbioinfo/uem915light
