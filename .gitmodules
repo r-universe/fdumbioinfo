@@ -2,8 +2,8 @@
 	path = .registry
 	url = https://github.com/fdumbioinfo/fdumbioinfo.r-universe.dev
 	branch = HEAD
-[submodule "lima"]
-	path = lima
+[submodule "limma"]
+	path = limma
 	url = https://github.com/fdumbioinfo/limma
 [submodule "moal"]
 	path = moal
