@@ -2,9 +2,33 @@
 	path = .registry
 	url = https://github.com/fdumbioinfo/fdumbioinfo.r-universe.dev
 	branch = HEAD
+[submodule "moalannotensg"]
+	path = moalannotensg
+	url = https://github.com/fdumbioinfo/moalannotensg
+[submodule "moalannotensp"]
+	path = moalannotensp
+	url = https://github.com/fdumbioinfo/moalannotensp
+[submodule "moalannotenst"]
+	path = moalannotenst
+	url = https://github.com/fdumbioinfo/moalannotenst
 [submodule "moalannotgene"]
 	path = moalannotgene
 	url = https://github.com/fdumbioinfo/moalannotgene
+[submodule "moalstringdbdr"]
+	path = moalstringdbdr
+	url = https://github.com/fdumbioinfo/moalstringdbdr
+[submodule "moalstringdbhs"]
+	path = moalstringdbhs
+	url = https://github.com/fdumbioinfo/moalstringdbhs
+[submodule "moalstringdbmm"]
+	path = moalstringdbmm
+	url = https://github.com/fdumbioinfo/moalstringdbmm
+[submodule "moalstringdbss"]
+	path = moalstringdbss
+	url = https://github.com/fdumbioinfo/moalstringdbss
+[submodule "moalstringrn"]
+	path = moalstringrn
+	url = https://github.com/fdumbioinfo/moalstringdbrn
 [submodule "uem915light"]
 	path = uem915light
 	url = https://github.com/fdumbioinfo/uem915light
