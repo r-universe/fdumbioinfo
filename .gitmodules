@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/fdumbioinfo/fdumbioinfo.r-universe.dev
 	branch = HEAD
+[submodule "moalannotgene"]
+	path = moalannotgene
+	url = https://github.com/fdumbioinfo/moalannotgene
 [submodule "uem915light"]
 	path = uem915light
 	url = https://github.com/fdumbioinfo/uem915light
