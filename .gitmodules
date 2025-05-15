@@ -32,3 +32,6 @@
 [submodule "moalstringdbss"]
 	path = moalstringdbss
 	url = https://github.com/fdumbioinfo/moalstringdbss
+[submodule "uem915"]
+	path = uem915
+	url = https://github.com/fdumbioinfo/uem915
