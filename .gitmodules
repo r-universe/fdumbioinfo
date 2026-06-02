@@ -26,6 +26,9 @@
 [submodule "moalstringdbmm"]
 	path = moalstringdbmm
 	url = https://github.com/fdumbioinfo/moalstringdbmm
+[submodule "moalstringdboa"]
+	path = moalstringdboa
+	url = https://github.com/fdumbioinfo/moalstringdboa
 [submodule "moalstringdbrn"]
 	path = moalstringdbrn
 	url = https://github.com/fdumbioinfo/moalstringdbrn
